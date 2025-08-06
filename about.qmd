@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 image: profile.jpg
 about:
   template: jolla
@@ -22,3 +22,28 @@ This is a change!
 "About" pages are special quarto template pages, with multiple options: <https://quarto.org/docs/websites/website-about.html>.
 
 Try changing the template type from `jolla` to one of the other options for a different look and feel.
+
+this is a new text
+
+1.  list
+
+-   list 2
+
+# introduction
+
+## data source
+
+## package used
+
+# method
+
+# results
+
+insert a code block
+
+```{r}
+2 + 2
+
+libary(ggplot2)
+install.packages("ggplot2")
+```
