@@ -44,6 +44,6 @@ insert a code block
 ```{r}
 2 + 2
 
-libary(ggplot2)
+library(ggplot2)
 install.packages("ggplot2")
 ```
